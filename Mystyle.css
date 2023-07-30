@@ -1,0 +1,82 @@
+body{
+    background-color: gold;
+}
+
+#topheading {
+    color:black; text-align: left;
+}
+
+#toptable{
+    width: 100%;
+height: 50px;
+    }
+
+    th{
+        border: solid;
+        border-radius: 20px;
+        background-color: greenyellow;
+        width: 20%;
+    }
+
+    #heading {
+        color: white;
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-shadow: 4px 4px 6px black;
+
+    }
+
+    #home1 {
+        float: left;
+height: 450px;
+width: 33.33%;
+background-color: yellowgreen;
+border-radius: 250px;
+text-align: center;
+box-shadow: 20px 20px 40px black;
+
+    }
+
+    h2{
+        padding-top: 50px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    p{
+        height: 450px;
+        width: 33.33%%;
+        color:white;
+        font-size: 20px;
+    }
+
+    #home2 {
+        float: right;
+
+        height: 450px;
+        width: 33.33%;
+   /*     background-image: radial-gradient(Green, red, yellowgreen);*/
+        background-color: red; 
+        border-radius: 250px;
+        text-align: center;
+box-shadow: 20px 20px 40px black;
+        
+            }
+
+            
+    #home3 {
+float: left;
+
+        height: 450px;
+        width: 33.33%;
+   /*     background-image: radial-gradient(Green, red, yellowgreen);*/
+        background-color:white; 
+        border-radius: 250px;
+        text-align: center;
+box-shadow: 20px 20px 40px black;
+        
+            }
+#image1{
+    width: 400px;
+    padding-top: 100px;
+    border-radius: 250px;
+}
